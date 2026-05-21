@@ -1,0 +1,11 @@
+name,age,department,salary,experience,remote,rating,joined
+Alice,28,Engineering,72000,4.0,True,4.5,2020-03-15
+Bob,34,Marketing,58000,8.0,False,3.8,2016-07-01
+Carol,22,Engineering,68000,1.0,True,4.2,2023-01-10
+Dave,45,HR,85000,20.0,False,4.9,2004-06-20
+Eve,31,Marketing,61000,6.0,True,3.5,2018-11-05
+Frank,29,Engineering,77000,3.0,True,4.1,2021-08-22
+Grace,37,HR,90000,12.0,False,4.7,2012-04-30
+Heidi,26,Marketing,54000,2.0,True,3.3,2022-06-01
+Ivan,41,Engineering,83000,16.0,False,4.6,2008-09-15
+Judy,33,HR,70000,9.0,True,4.0,2015-02-28
